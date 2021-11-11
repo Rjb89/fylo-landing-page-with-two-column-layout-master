@@ -225,18 +225,18 @@ top: 20%;
 
 }
 @media(min-width:379px){
-  #Team{
+  /* #Team{
 
   padding-top: 400px;
-  }
-  .illustration{
+  } */
+  /* .illustration{
     top: 0;
     left:0;
-  }
-  .second-article-column-one h2{
+  } */
+  /* .second-article-column-one h2{
     font-size: 1.2rem;
     text-align: center;
-  }
+  } */
   .second-article-column-one p{
     font-size: 0.9rem;
     width: 330px;
